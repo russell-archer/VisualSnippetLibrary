@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title></Title>
+      <Description></Description>
+      <Author></Author>
+      <HelpUrl></HelpUrl>
+      <Shortcut></Shortcut>
+      
+      <SnippetTypes>
+	      <SnippetType>SurroundsWith | Expansion | Refactoring</SnippetType> 
+      </SnippetTypes>
+      
+      <Keywords>
+        <Keyword></Keyword>
+      </Keywords>
+    </Header>
+    
+    <Snippet>
+      <References> <!-- VB only -->
+        <Reference>
+          <Assembly></Assembly>
+        </Reference>
+        <Reference>
+          <Assembly></Assembly>
+        </Reference>      
+      </References>
+      
+      <Imports>
+        <Import>
+          <Namespace></Namespace>
+        </Import>
+        <Import>
+          <Namespace></Namespace>
+        </Import>      
+      </Imports>
+      
+      <Declarations>
+        <Literal Editable="true">
+          <ID></ID>
+          <Default></Default>
+          <Function></Function>
+          <ToolTip></ToolTip>        
+        </Literal>
+        
+        <Object Editable="true">
+          <ID></ID>
+          <Default></Default>
+          <Function></Function>
+          <ToolTip></ToolTip>        
+          <Type></Type>          
+        </Object>
+      </Declarations>
+      
+      <Code 
+        Language="VB | CSharp| XML | CPP | JavaScript | JScript | SQL | HTML" 
+        Kind="method body | method decl | type decl | file | any" 
+        Delimiter="$">
+        <![CDATA[
+          Code here
+        ]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

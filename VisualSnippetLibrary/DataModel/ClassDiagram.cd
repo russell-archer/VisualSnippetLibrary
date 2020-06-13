@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VisualSnippetLibrary.DataModel.SnippetRepository">
+    <Position X="11.25" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAABAAEAAAAQAAAgAAAAAQAAAAgAAAAgA=</HashCode>
+      <FileName>DataModel\SnippetRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisualSnippetLibrary.DataModel.FolderSummary">
+    <Position X="9" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAIEAAAAIAABAAAIAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>DataModel\FolderSummary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisualSnippetLibrary.DataModel.Declaration">
+    <Position X="6.5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAIAoAAAAAgAAAAQACAAAAAAA=</HashCode>
+      <FileName>DataModel\Declaration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisualSnippetLibrary.DataModel.CodeSnippetBase">
+    <Position X="3.75" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAKAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\CodeSnippetBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisualSnippetLibrary.DataModel.CodeSnippet">
+    <Position X="1.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAABgQFIFgCAgAAAABAAAAEAEAAAAAABAgAA=</HashCode>
+      <FileName>DataModel\CodeSnippet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
